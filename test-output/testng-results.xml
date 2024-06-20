@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[End-To-End Testing is Completed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-20T17:45:53 IST" name="Default suite" finished-at="2024-06-20T17:46:16 IST" duration-ms="22742">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T17:45:53 IST" name="Default test" finished-at="2024-06-20T17:46:16 IST" duration-ms="22742">
+      <class name="End_To_End_Testing.SwagLabsPropertyFileTest">
+        <test-method is-config="true" signature="FetchData()[pri:0, instance:End_To_End_Testing.SwagLabsPropertyFileTest@6c6cb480]" started-at="2024-06-20T17:45:53 IST" name="FetchData" finished-at="2024-06-20T17:45:53 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FetchData -->
+        <test-method is-config="true" signature="LauchBrowser()[pri:0, instance:End_To_End_Testing.SwagLabsPropertyFileTest@6c6cb480]" started-at="2024-06-20T17:45:53 IST" name="LauchBrowser" finished-at="2024-06-20T17:45:58 IST" duration-ms="4735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LauchBrowser -->
+        <test-method signature="login()[pri:1, instance:End_To_End_Testing.SwagLabsPropertyFileTest@6c6cb480]" started-at="2024-06-20T17:45:58 IST" name="login" finished-at="2024-06-20T17:46:01 IST" duration-ms="2464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addToCart()[pri:2, instance:End_To_End_Testing.SwagLabsPropertyFileTest@6c6cb480]" started-at="2024-06-20T17:46:01 IST" name="addToCart" finished-at="2024-06-20T17:46:03 IST" duration-ms="2183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="order()[pri:3, instance:End_To_End_Testing.SwagLabsPropertyFileTest@6c6cb480]" started-at="2024-06-20T17:46:03 IST" name="order" finished-at="2024-06-20T17:46:11 IST" duration-ms="8598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order -->
+        <test-method signature="logout()[pri:4, instance:End_To_End_Testing.SwagLabsPropertyFileTest@6c6cb480]" started-at="2024-06-20T17:46:11 IST" name="logout" finished-at="2024-06-20T17:46:16 IST" duration-ms="4347" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[End-To-End Testing is Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:End_To_End_Testing.SwagLabsPropertyFileTest@6c6cb480]" started-at="2024-06-20T17:46:16 IST" name="closeBrowser" finished-at="2024-06-20T17:46:16 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- End_To_End_Testing.SwagLabsPropertyFileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: End_To_End_Testing.SwagLabsPropertyFileTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.764 sec
